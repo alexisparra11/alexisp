@@ -10,6 +10,7 @@ public static void main(String[] args) {
     //display
     System.out.println("El color es:"+auto1.color);
     System.out.println("el color es: "+auto2.color);
+    auto.marca = "ford"
 }
 }
 
