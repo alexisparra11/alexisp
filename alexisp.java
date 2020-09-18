@@ -9,6 +9,7 @@ public static void main(String[] args) {
     auto2.color = "verde"
     //display
     System.out.println("El color es:"+auto1.color);
+    System.out.println("el color es: "+auto2.color);
 }
 }
 
