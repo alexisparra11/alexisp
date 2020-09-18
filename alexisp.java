@@ -6,7 +6,7 @@ public class vehiculos{
 public static void main(String[] args) {
     vehiculos auto1 = new vehiculos();
     auto1.color = "gris"222222222
-    auto.marca = "chevrolet"
+    auto2.color = "verde"
     //display
     System.out.println("El color es:"+auto1.color);
 }
